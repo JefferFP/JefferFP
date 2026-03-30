@@ -1,8 +1,20 @@
 # 👋 ¡Hola! Soy Jefferson Flores P. 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jefer-flores-09652b257)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/JefferFP)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visita-FF6B6B?style=for-the-badge&logo=google-chrome)](https://tusitioweb.com)
+<div align="center">
+  
+  <a href="www.linkedin.com/in/jefer-flores-09652b257" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  
+  <a href="https://github.com/JefferFP" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  
+  <a href="https://tusitioweb.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=google-chrome&label=&color=FF6B6B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+  
+</div>
 
 ### Desarrollador Full Stack | Especialista en Soluciones Backend
 
