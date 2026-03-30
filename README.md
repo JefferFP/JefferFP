@@ -16,7 +16,7 @@ Desarrollador **Backend** con sólida experiencia en el ecosistema Java y entusi
 - 🌱 Explorando **microservicios con Spring Boot y Docker**.
 - 💡 Me interesa la arquitectura de software, buenas prácticas y rendimiento.
 - 🎯 Objetivo: Contribuir a proyectos open source y seguir aprendiendo nuevas tecnologías.
-- 📫 Contáctame: **tuemail@ejemplo.com**
+- 📫 Contáctame: **jef03flores@gmail,com**
 
 ---
 
