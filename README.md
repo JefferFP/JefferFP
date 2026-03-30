@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jefferson Flores P. 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jefer-flores-09652b257)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Visita-FF6B6B?style=for-the-badge&logo=google-chrome)](https://tusitioweb.com)
 
@@ -58,7 +58,7 @@ Aquí algunos proyectos en los que he trabajado:
 
 ## 📫 ¿Cómo contactarme?
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
+- 💼 [LinkedIn](www.linkedin.com/in/jefer-flores-09652b257)
 - 🐙 [GitHub](https://github.com/JefferFP)
 - 📧 **jef03flores@gmail.com**
 - 🌐 [Portafolio Web](https://tusitio.com)(en proceso)
