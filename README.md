@@ -69,15 +69,6 @@ Desarrollador **Backend** con sólida experiencia en el ecosistema Java y entusi
 
 </div>
 
-## 🚀 Proyectos Destacados
-
-Aquí algunos proyectos en los que he trabajado:
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-
----
-
 ## 📫 ¿Cómo contactarme?
 
 - 💼 [LinkedIn](www.linkedin.com/in/jefer-flores-09652b257)
