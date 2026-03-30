@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jefferson Flores P. 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jefer-flores-09652b257)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/JefferFP)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Visita-FF6B6B?style=for-the-badge&logo=google-chrome)](https://tusitioweb.com)
 
 ### Desarrollador Full Stack | Especialista en Soluciones Backend
